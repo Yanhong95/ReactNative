@@ -1,2 +1,2 @@
 # ReactNative
-Learn React Native and have fun!
+Learn React Native and have fun.
